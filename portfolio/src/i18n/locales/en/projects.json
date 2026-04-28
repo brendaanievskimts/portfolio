@@ -1,0 +1,44 @@
+{
+  "title": "Projects.",
+  "status": {
+    "concluded": "Concluded",
+    "inProgress": "In progress"
+  },
+  "links": {
+    "github": "GitHub"
+  },
+  "items": [
+    {
+      "id": "sports",
+      "title": "Sports Competition System",
+      "year": "2024",
+      "status": "concluded",
+      "description": "Athletes and medals management system with a graphical interface, applying inheritance, encapsulation and polymorphism.",
+      "tags": ["Java", "OOP", "Swing"]
+    },
+    {
+      "id": "capim",
+      "title": "Capim Simulator",
+      "year": "2025",
+      "status": "concluded",
+      "description": "2D multiplayer terminal game with graphical text rendering, developed following the professor's classes via BBC.",
+      "tags": ["Go", "RPC", "Distributed Systems"]
+    },
+    {
+      "id": "agro",
+      "title": "Agricultural Management",
+      "year": "2026",
+      "status": "concluded",
+      "description": "Operational control system for the family's agricultural business — inventory, clients, promotions and finances in one place.",
+      "tags": ["React", "Node.js", "Supabase", "Lovable"]
+    },
+    {
+      "id": "academic",
+      "title": "Academic Organizer",
+      "year": "2026",
+      "status": "inProgress",
+      "description": "Platform to organize college activities with a containerized Java back-end and React front-end.",
+      "tags": ["Java", "SpringBoot", "React", "Docker"]
+    }
+  ]
+}

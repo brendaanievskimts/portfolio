@@ -1,0 +1,35 @@
+{
+  "title": "Skills.",
+  "categories": [
+    {
+      "id": "languages",
+      "title": "Languages",
+      "items": ["Java", "C#", "Go", "JavaScript", "TypeScript"]
+    },
+    {
+      "id": "frameworks",
+      "title": "Frameworks",
+      "items": ["Spring Boot", "ASP.NET", "NestJs"]
+    },
+    {
+      "id": "databases",
+      "title": "Databases",
+      "items": ["MongoDB", "Redis", "PostgreSQL"]
+    },
+    {
+      "id": "messaging",
+      "title": "Messaging",
+      "items": ["RabbitMQ", "RPC"]
+    },
+    {
+      "id": "tools",
+      "title": "Tools",
+      "items": ["Git", "GitHub", "Jira", "Insomnia", "Docker"]
+    },
+    {
+      "id": "idioms",
+      "title": "Languages",
+      "items": ["Portuguese (native)", "English (advanced)"]
+    }
+  ]
+}
